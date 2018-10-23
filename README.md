@@ -15,4 +15,4 @@ Se utilizará una aquitectura basada en microservicios, con microframework Flask
 
 ## Licencia
 
-Licencia GNU GLP V3.0.
+Licencia GNU GLP V3.0
